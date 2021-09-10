@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m learning **Python**.
 - 🤓 Love for science and innovation.
 - 📚 I'm currently reading: Data Science for Business by Foster Provost & Tom Fawcett.
 
