@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**.
 - 🤓 Love for science and innovation.
-- 📚 I'm currently reading: Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking by Foster Provost & Tom Fawcett.
+- 📚 I'm currently reading: Data Science for Business by Foster Provost & Tom Fawcett.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
