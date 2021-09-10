@@ -1,6 +1,6 @@
 <h2> > Hello World! 👋, I'm Macarena <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>「A passionate data analyst from Buenos Aires」<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<img align='right' src="https://media4.giphy.com/media/YmUzbfKCRlbJQoPqOz/giphy.gif?cid=790b7611dd4de567d68598487af812c37d9838b0c509dbe5&rid=giphy.gif&ct=s" width="230">
+<p><em>「A passionate data analyst from Buenos Aires」
 </em></p>
 
 
