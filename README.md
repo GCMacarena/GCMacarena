@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Macarena</h1>
-<h3 align="center">A passionate data analyst from Buenos Aires</h3>
+<h1 align="center">> Hello World! 👋, I'm Macarena</h1>
+<h3 align="center">「A passionate data analyst from Buenos Aires」</h3>
 
 - 🌱 I’m currently learning **Python**
 
